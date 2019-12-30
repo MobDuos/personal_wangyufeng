@@ -73,6 +73,9 @@
 ._文本段落 {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
 .line {
 }
 .text_field {
